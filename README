@@ -1,10 +1,30 @@
+----------------------------------
 Hello, Welcome to Blind Match Race 
-This version Edited by Or Didi , Eliran Turjeman , Roi Inbar
-------------------------------------------------------------
+----------------------------------
+This version Edited by:
+Or Didi
+Eliran Turjeman
+Roi Inbar
+
+![Alt text](http://leave-me.com/torsys/img_ex4/Screenshot_2014-05-22-18-33-28.png "User Panel")
+--------------------------------------------------------
+Application aims to help the blind to compete Sea cruise.
+--------------------------------------------------------
+
+------------
+Description:
+------------
+This application runs on Android enabled devices only.
+There are two levels at which the program principles: user and admin control.
+Admin mode allows to set buoys on the map with the location of the device,
+in addition it is possible to see the speed at which you are moving, and specific location.
+User mode allows you to select map where the user chooses to compete,
+as well as the user has the ability to see the information where it is, with the location.
+The user can also hear "BEEP" the rest is coming as expected.
+
 
 22-5-2014 - Changes some feature :
 ----------------------------------
-* 
 * Page with explanations about the app and how to use it.
 * Voice interface allows to navigate a number of things:
    +Distinguish between the different buoy to other.
