@@ -34,3 +34,16 @@ The user can also hear "BEEP" the rest is coming as expected.
    +Distinguish between the different buoy to other.
    +Estimate the distance to the float according to sound (The more that closeness buoy returns faster than sound).
 ![ScreenShot](http://leave-me.com/torsys/img_ex4/Screenshot_2014-05-22-17-55-52.png "help page")
+
+----------
+Attention:
+----------
+**If during the import process remains have errors, so check you installed Android package: 
+       +google APIs (ARM System Image)
+       +google play services for Froyo
+       
+**If you encounter a problem, the map shows a picture white Follow the guide below:
+http://hmkcode.com/getting-android-google-maps-v2-api-key/
+
+
+
