@@ -33,6 +33,7 @@ The user can also hear "BEEP" the rest is coming as expected.
 * Voice interface allows to navigate a number of things:
    +Distinguish between the different buoy to other.
    +Estimate the distance to the float according to sound (The more that closeness buoy returns faster than sound).
+* Junit folder testing, you can find this in : https://github.com/torgeman/BlindMatchRaceTEST
 ![ScreenShot](http://leave-me.com/torsys/img_ex4/Screenshot_2014-05-22-17-55-52.png "help page")
 
 ----------
